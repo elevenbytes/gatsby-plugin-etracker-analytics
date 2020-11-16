@@ -7,7 +7,7 @@
     "gatsby-plugin",
     "etracker"
   ],
-  "author": "team@11bytes.de",
+  "author": "contact@11bytes.de",
   "license": "MIT",
   "scripts": {
     "build": "babel src --out-dir . --ignore __tests__",
